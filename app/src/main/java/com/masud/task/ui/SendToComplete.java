@@ -18,9 +18,9 @@ public class SendToComplete extends AppCompatActivity {
     String title,des,time;
     int id;
     Intent intent;
-    public static final String TITLE=" com.smartthink.practice.TITLE";
-    public static final String DESC=" com.smartthink.practice.DESC";
-    public static final String TIME=" com.smartthink.practice.TIME";
+    public static final String TITLE=" com.masud.task.TITLE";
+    public static final String DESC=" com.masud.task.DESC";
+    public static final String TIME=" com.masud.task.TIME";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

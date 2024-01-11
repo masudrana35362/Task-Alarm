@@ -61,9 +61,9 @@ public class AlertReceiver extends BroadcastReceiver {
     public static class taskNotificationHelper extends ContextWrapper {
         public static final String TaskChannel1_ID = "taskChannel1ID";
         public static final String TaskChannel1_Name = "Task Alarm";
-        public static final String TITLE = "com.smartthink.practice.TITLE";
-        public static final String DESC = "com.smartthink.practice.DESC";
-        public static final String TIME = "com.smartthink.practice.TIME";
+        public static final String TITLE = " com.masud.task.TITLE";
+        public static final String DESC = " com.masud.task.DESC";
+        public static final String TIME = " com.masud.task.TIME";
 
 
         private NotificationManager mManager;
